@@ -82,4 +82,13 @@
     <string name="des_more_apps">Có thể bạn cần</string>
     <string name="more_app">"Xem thêm "</string>
     <string name="retry_now">Thử lại</string>
-    <string name="get_more_editing_features">Nhận thêm các tính năng chỉnh sửa với Trình chỉnh sửa âm thanh</string>
+    
+       <string name="error_request">Không thể kết nối đến máy chủ. Vui lòng kiểm tra lại kết nối mạng của bạn </string>
+    <string name="des_more_apps">Một số ứng dụng hữu ích có thể bạn sẽ cần</string>
+    <string name="get_audio_editor_to_merge_many_audio_files_into_one">Tải Audio Editor để nối nhiều file âm thanh lại làm một</string>
+    <string name="get_audio_editor_to_export_audio_file_from_video"> Tải Audio Editor để lấy âm thanh từ video </string>
+    <string name="get_audio_editor_to_convert_audio_files_to_many_other_formats"> Tải Audio Editor để chuyển định dạng file âm thanh sang các định dạng khác </string>
+    <string name="merge_many_songs_into_one"> Nối file âm thanh </string>
+    <string name="video_to_audio_converter"> Lấy âm thanh ra khỏi video </string>
+    <string name="audio_editor_converter"> Đổi định dạng file âm thanh </string>
+    
