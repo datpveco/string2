@@ -73,3 +73,13 @@
     <string name="go_to_vbooster">Đi đến vBooster</string>
     <string name="boost_your_device_volume_even">Tăng âm lượng thiết bị của bạn hơn nữa! Dùng thử vBooster - Ứng dụng tăng âm lượng cực lớn</string>
     <string name="You can attach a screenshot or video describing the error you encountered.">Bạn có thể gửi kèm ảnh chụp màn hình hoặc video mô tả lỗi mà bạn đã gặp phải.</string>
+        <string name="name">Tên:</string>
+    <string name="convert">Chuyển đổi định dạng</string>
+    <string name="video_to_audio">Tách nhạc từ video</string>
+    <string name="merge_audio">Hợp nhất âm thanh</string>
+    <string name="go_to_audio_editor">Chuyển đến Audio Editor</string>
+    <string name="error_request">Không thẻ kết nối với máy chủ. Vui lòng kiểm tra kết nối mạng.</string>
+    <string name="des_more_apps">Có thể bạn cần</string>
+    <string name="more_app">"Xem thêm "</string>
+    <string name="retry_now">Thử lại</string>
+    <string name="get_more_editing_features">Nhận thêm các tính năng chỉnh sửa với Trình chỉnh sửa âm thanh</string>
